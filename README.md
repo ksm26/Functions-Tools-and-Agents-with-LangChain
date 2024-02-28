@@ -10,7 +10,8 @@ In this course, you'll delve into the latest advancements in LLMs and the librar
 1. 🛠 **Generating Structured Output**: Learn to generate structured output, including function calls, using LLMs.
 2. 💬 **LangChain Expression Language (LCEL)**: Explore LCEL, a new syntax that simplifies customization of chains and agents to build applications.
 <p align="center">
-<img src="images/2_1.png" height="450"> 
+<img src="images/2_1.png" height="350"> 
+<img src="images/2_2.png" height="350"> 
 </p>
 
 3. 🔄 **Function Calling for Tagging and Data Extraction**: Apply function calling to tasks like tagging and data extraction.
