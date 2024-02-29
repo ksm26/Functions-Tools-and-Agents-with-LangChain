@@ -15,6 +15,11 @@ In this course, you'll delve into the latest advancements in LLMs and the librar
 </p>
 
 3. 🔄 **Function Calling for Tagging and Data Extraction**: Apply function calling to tasks like tagging and data extraction.
+<p align="center">
+<img src="images/4_1.png" height="350"> 
+<img src="images/4_2.png" height="350"> 
+</p>
+
 4. ⚙️ **Tool Selection and Routing**: Understand tool selection and routing using LangChain tools and LLM function calling.
 
 ## Key Points
