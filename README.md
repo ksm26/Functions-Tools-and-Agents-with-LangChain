@@ -21,6 +21,9 @@ In this course, you'll delve into the latest advancements in LLMs and the librar
 </p>
 
 4. ⚙️ **Tool Selection and Routing**: Understand tool selection and routing using LangChain tools and LLM function calling.
+<p align="center">
+<img src="images/5_1.png" height="300"> 
+</p>
 
 ## Key Points
 - 🧠 Learn about the most recent advancements in LLM APIs.
